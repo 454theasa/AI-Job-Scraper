@@ -11,7 +11,7 @@ Unlike standard keyword scrapers that flood you with irrelevant jobs, this agent
 
 1. **AI-Driven Search Matrix:**
    - Upload your PDF CV, and the Gemini 2.5 Flash model instantly extracts your core skills, nice-to-haves, and hard limits (e.g., "no Senior roles").
-   - It mathematically generates a highly specific Cartesian search matrix (e.g., `["Data Analyst Intern", "Data Science Intern"]` × `["Python", "SQL"]`).
+   - It mathematically generates a highly specific Cartesian search matrix combining AI-generated Job Titles and Country Synonyms (e.g., `["Data Analyst", "Data Scientist"]` × `["Switzerland", "Schweiz", "Suisse"]`), and attaches dynamic seniority exclusions.
 
 2. **Interleaved Dual-Engine Scraping:**
    - **JobSpy Engine:** Aggressively overfetches high-quality listings directly from native boards (LinkedIn, Indeed, Glassdoor).

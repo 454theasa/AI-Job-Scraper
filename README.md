@@ -25,7 +25,7 @@ Unlike standard keyword scrapers that flood you with irrelevant jobs, this agent
 
 4. **Dynamic Streamlit UI:**
    - Human-in-the-loop keyword editing.
-   - Interactive circuit breakers and CAPTCHA warnings.
+   - Interactive circuit breakers and CAPTCHA warnings *(Note: The manual CAPTCHA rescue feature only applies to Google searches and is currently untested in the wild).*
    - Real-time terminal output mirroring in the UI.
    - Beautiful metric dashboards for Matched, Rejected, and pending jobs.
 

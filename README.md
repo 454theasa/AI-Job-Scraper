@@ -37,6 +37,7 @@ Unlike standard keyword scrapers that flood you with irrelevant jobs, this agent
    - Human-in-the-loop keyword editing.
    - Interactive circuit breakers and CAPTCHA warnings *(Note: The manual CAPTCHA rescue feature only applies to Google searches and is currently untested in the wild).*
    - Real-time terminal output mirroring in the UI.
+   - Built-in Application Tracker (mark jobs as Applied, Interviewing, or Rejected).
    - Beautiful metric dashboards for Matched, Rejected, and pending jobs.
 
 ---

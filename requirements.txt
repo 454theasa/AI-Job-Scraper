@@ -83,7 +83,7 @@ python-multipart==0.0.32
 pytz==2026.2
 PyYAML==6.0.3
 referencing==0.37.0
-regex==2026.6.28
+regex
 requests==2.34.2
 requests-toolbelt==1.0.0
 rich==15.0.0
@@ -91,7 +91,7 @@ rpds-py==2026.6.3
 safetensors==0.8.0
 scikit-learn==1.9.0
 scipy==1.13.1
-sentence-transformers==5.6.0
+sentence-transformers
 setuptools==70.2.0
 shellingham==1.5.4
 six==1.17.0
@@ -115,7 +115,7 @@ torchaudio==2.11.0+cpu
 torchvision==0.27.1+cpu
 tqdm==4.68.3
 trafilatura==2.1.0
-transformers==5.13.0
+transformers
 typer==0.26.8
 typing-inspection==0.4.2
 typing_extensions==4.16.0

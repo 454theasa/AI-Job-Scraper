@@ -61,6 +61,12 @@ You **do not** need to mess with `.env` files or hardcode anything!
 Once you launch the app, simply open the sidebar and enter your Google Gemini API key securely in the **🔑 AI Settings** menu. It will be saved locally to your database.
 *(You can get a free Gemini API key from Google AI Studio).*
 
+**Supported AI Models:**
+Because the scraper relies on strict structured JSON validation, it natively supports Google's modern models. You can specify any of these in the UI settings:
+- `gemini-2.5-flash` *(Default: Fastest and best for the free tier)*
+- `gemini-2.5-pro` *(Smartest, but consumes rate limits faster)*
+- `gemini-1.5-flash` or `gemini-1.5-flash-8b`
+
 ### 5. Launch the Agent!
 ```bash
 streamlit run app.py

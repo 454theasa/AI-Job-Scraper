@@ -1,0 +1,32 @@
+# Data & secrets
+*.db
+*.db.*
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Logs
+*.log
+run_log.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Additional Protections
+*.pdf
+cv/
+resumes/
+*.sqlite
+*.sqlite3
+jobs_dump.json

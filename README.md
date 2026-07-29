@@ -57,11 +57,8 @@ pip install -r requirements.txt
 ```
 
 ### 4. Configure API Keys
-Create a file named `.env` in the root directory of the project.
-Add your Google Gemini API key:
-```env
-GEMINI_API_KEY=your_api_key_here
-```
+You **do not** need to mess with `.env` files or hardcode anything! 
+Once you launch the app, simply open the sidebar and enter your Google Gemini API key securely in the **🔑 AI Settings** menu. It will be saved locally to your database.
 *(You can get a free Gemini API key from Google AI Studio).*
 
 ### 5. Launch the Agent!

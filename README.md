@@ -5,7 +5,7 @@ An autonomous, AI-driven job discovery engine built with Python, Streamlit, and 
 > **Built with AI Assistance:** Developed with AI-assisted coding tools (**Claude, Gemini, and Kimi**); architecture, requirements, and validation by me.
 
 > **⚠️ Disclaimer:** This project was originally built for personal use. Some features might occasionally break or return suboptimal results due to changes in job boards or rate limits. If you encounter any bugs or non-optimal results, feel free to open an issue with a screenshot, or reach out to me directly at my GitHub profile!
-Unlike standard keyword scrapers that flood you with irrelevant jobs, this agent uses **Semantic AI Pre-Screening** to read your CV, dynamically compose optimal search phrases, aggressively scrape the entire internet for matches, and then grade every single job against your exact qualifications.
+Unlike standard keyword scrapers that flood you with irrelevant jobs, this agent uses **Semantic AI Pre-Screening** to read your CV, dynamically compose optimal search phrases, and then grade every single discovered job against your exact qualifications.
 
 ## 📸 Screenshots
 <p align="center">
